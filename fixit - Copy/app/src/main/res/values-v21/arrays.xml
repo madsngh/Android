@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <array name="icons">
+        <item>@drawable/mycar</item>
+        <item>@drawable/mybike</item>
+        <item>@drawable/mybycycle</item>
+    </array>
+    <array name="iconsdesc">
+        <item>"cupcake"</item>
+        <item>"donut"</item>
+        <item>"eclair"</item>
+        <item>"froyo"</item>
+        <item>"gingerbread"</item>
+        <item>"honeycomb"</item>
+        <item>"icecream"</item>
+        <item>"jellybean"</item>
+        <item>"kitkat"</item>
+        <item>"lollipop"</item>
+        <item>"marshmallow"</item>
+    </array>
+
+
+
+
+</resources>

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">fixit</string>
+    <string name="title_activity_my_main">MyMainActivity</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_map_wali">Map</string>
+    <string name="title_activity_maps_wali">Map</string>
+</resources>
